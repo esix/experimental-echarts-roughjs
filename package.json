@@ -2,6 +2,7 @@
   "name": "experimental-echarts-roughjs",
   "private": true,
   "version": "0.0.0",
+  "license": "Unlicense",
   "type": "module",
   "scripts": {
     "dev": "vite",
